@@ -1,0 +1,2 @@
+i have to type vim or vim with file name to go inside the vim editor for that file
+and then press esc to switch to the inserting mode
